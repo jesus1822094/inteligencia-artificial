@@ -2,4 +2,5 @@ def sumar(n):
   return(n* (n+1))/2
 N= int(input("introduca N: "))
 suma = sumar(N)
-print ("resultado: ",suma)
+print ("la suma de 1+2+3....",N)
+print ("es",suma)
